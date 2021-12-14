@@ -1,2 +1,2 @@
-# ScrappingImagesOfDifferentCategoriesFromEmag
-Scrapping images of different of type of clothing from emag
+# Scrapping Images Of Different Categories From Emag
+Scrapping images of different type of clothing from emag
